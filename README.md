@@ -36,7 +36,7 @@ Contact-Book/
 1. Clone this repository:
 
 ```bash
-[git clone https://github.com/dakshkaushik1209-blip/Contact-Book.git](https://github.com/dakshkaushik1209-blip/Python-Contact-book.git)
+git clone https://github.com/dakshkaushik1209-blip/Python-Contact-book.git
 ```
 
 2. Open the project folder.
@@ -44,7 +44,7 @@ Contact-Book/
 3. Run the program:
 
 ```bash
-python Contact Book.py
+python Contact_Book.py
 ```
 
 ##  Menu Options
